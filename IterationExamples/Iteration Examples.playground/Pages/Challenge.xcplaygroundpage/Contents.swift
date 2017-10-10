@@ -14,6 +14,7 @@ import PlaygroundSupport
 // Create canvas
 let canvas = Canvas(width: 300, height: 300)
 
+i in stride(from: 0, to: 300, by: <#T##Comparable & SignedNumeric#>)
 // Below this line, try combining a loop and four statements that draw lines to generate the goal
 
 /*:
